@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#custom
+venv
+env
+**__pycache__**
+.idea
+5_csvs/*.csv
+4_images_resized/*.png
+3_unzipped_data/*.png
+2_jsons/*.json
+1_zipped_data/*.zip
+videos
+images
